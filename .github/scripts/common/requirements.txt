@@ -4,7 +4,7 @@ colorama
 Deprecated==1.2.10
 gitdb==4.0.5
 GitPython==3.1.11
-idna==2.10
+idna==3.7
 PyGithub==1.54
 PyJWT==1.7.1
 PyYAML==5.4
